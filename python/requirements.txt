@@ -1,11 +1,11 @@
 # Common - REST interface
-aiohttp==3.6.2
+aiohttp==3.14.4
 aiohttp_cors==0.7.0
 cchardet==2.1.4
-pyjwt==1.6.4
+pyjwt==2.15.0
 
 # Transformation of data, Apply JqFilter
 pyjq==2.3.1
 
 # Foglamp discovery
-zeroconf==0.22.0
+zeroconf==0.149.16
